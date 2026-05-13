@@ -1,3 +1,5 @@
+<img width="1045" height="587" alt="Executive dashboard" src="https://github.com/user-attachments/assets/edf9c1a7-3cd2-434e-9c17-c558d0056ca1" />
+<img width="1045" height="587" alt="Executive dashboard" src="https://github.com/user-attachments/assets/419598cf-42e9-40b1-83d7-fab236dee153" />
 # Online Retail Sales Analysis Dashboard
 
 ## Project Overview
@@ -41,3 +43,13 @@ The dashboard was designed to support business decision-making through KPI track
 - Repeat customers contribute significantly to recurring sales.
 - Returns increase sharply during year-end periods.
 
+# Online Retail Sales Analysis
+
+## Executive Dashboard Overview
+![Executive Dashboard](images/Executive dashboard.png)
+
+## Customer and Product Analysis
+![Customer and Product dashboard](images/Customer and Product analysis.png)
+
+## Risk and Returns Analysis
+![Risk and Return dashboard](images/Returns and Risks dashboard.png)
