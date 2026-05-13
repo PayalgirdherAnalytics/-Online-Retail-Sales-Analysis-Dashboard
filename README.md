@@ -1,5 +1,3 @@
-<img width="1045" height="587" alt="Executive dashboard" src="https://github.com/user-attachments/assets/edf9c1a7-3cd2-434e-9c17-c558d0056ca1" />
-<img width="1045" height="587" alt="Executive dashboard" src="https://github.com/user-attachments/assets/419598cf-42e9-40b1-83d7-fab236dee153" />
 # Online Retail Sales Analysis Dashboard
 
 ## Project Overview
@@ -46,10 +44,29 @@ The dashboard was designed to support business decision-making through KPI track
 # Online Retail Sales Analysis
 
 ## Executive Dashboard Overview
-![Executive Dashboard](images/Executive dashboard.png)
+<img width="1045" height="587" alt="Executive dashboard" src="https://github.com/user-attachments/assets/1c5f7d24-cb8e-4f31-98ed-d8824fc1fb19" />
 
 ## Customer and Product Analysis
-![Customer and Product dashboard](images/Customer and Product analysis dashboard.png)
+<img width="1238" height="697" alt="Customer and Product analysis dashboard" src="https://github.com/user-attachments/assets/af47c579-bb29-4607-aafd-403ae5eaeda1" />
 
 ## Risk and Returns Analysis
-![Risk and Return dashboard](images/Returns and Risks dashboard.png)
+<img width="1237" height="697" alt="Returns and Risks dashboard" src="https://github.com/user-attachments/assets/1bf415b5-1f93-4126-8486-63a7b2d87b60" />
+
+## SQL Analysis
+
+SQL was used to analyze:
+- Revenue trends
+- Customer behavior
+- Product performance
+- Return patterns
+- Month-over-month growth
+
+Business-focused SQL queries were written using joins, aggregations, KPIs, and window functions.
+
+## Dataset
+
+Online Retail Dataset (2010–2011)
+
+Source:
+- Kaggle
+- UCI Machine Learning Repository
