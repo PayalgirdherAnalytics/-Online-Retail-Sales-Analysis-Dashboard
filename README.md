@@ -49,7 +49,7 @@ The dashboard was designed to support business decision-making through KPI track
 ![Executive Dashboard](images/Executive dashboard.png)
 
 ## Customer and Product Analysis
-![Customer and Product dashboard](images/Customer and Product analysis.png)
+![Customer and Product dashboard](images/Customer and Produllllllct analysis.png)
 
 ## Risk and Returns Analysis
 ![Risk and Return dashboard](images/Returns and Risks dashboard.png)
